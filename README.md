@@ -2,6 +2,8 @@
 
 Input data and scripts to recreate all figures and generate underlying data for Starr, Picton, Thornton "Alternate evolutionary histories in the sequence space of an ancient protein", Nature 2017.
 
+For each script, create an output subdirectory "x_script-name_out/"
+
 Input data gives the read counts mapped to each RH combination coming from each library/barcode combination.
 
 Run scripts in order by file name. All scripts are preceded by a pointer to the source file location, which needs to be changed accordingly. Be sure all packages referenced in the beginning of each script are downloaded:
