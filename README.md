@@ -1,6 +1,6 @@
 # nature-2017_RH-scanning
 
-Input data and scripts to recreate all figures and generate underlying data for Starr, Picton, Thornton "Alternate evolutionary histories in the sequence space of an ancient protein", Nature 2017.
+Input data and scripts to recreate all figures and generate underlying data for Starr, Picton, Thornton "Alternative evolutionary histories in the sequence space of an ancient protein", Nature 2017.
 
 For each script, create an output subdirectory "x_script-name_out/"
 
