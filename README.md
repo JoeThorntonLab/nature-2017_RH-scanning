@@ -10,7 +10,7 @@ Run scripts in order by file name. All scripts are preceded by a pointer to the 
 
 1_calc-meanF_11P.R : calculates the ML mean fluorescence for each RH variant on ERE and SRE in the AncSR1+11P background
 
-2_calc-meanF_11P.R : calculates the ML mean fluorescence for each RH variant on ERE and SRE in the AncSR1 background
+2_calc-meanF_SR1.R : calculates the ML mean fluorescence for each RH variant on ERE and SRE in the AncSR1 background
 
 3_classify-variant-distributions.R : generates null sampling distributions for classifying RH variants. (takes a while to generate positive sampling distributions)
 
@@ -22,7 +22,7 @@ Run scripts in order by file name. All scripts are preceded by a pointer to the 
 
 7_assess-connectivity.R : prepares force-directed graph files for analysis in gephi, and computes characteristics of trajectories available in each DBD background using igraph
 
-8_bchem-determ.R : prepare alignments for logo generation; infer logistic regression models to reveal biophysical determinants of RE-specificity
+8_bchem-determ.R : prepare alignments for logo generation; infer logistic regression models to reveal biophysical determinants of RE-specificity; analyze foldX data
 
 9_quant-scale-landscape : look into error structure of quantitative mean fluorescence estimates; consider alternative evolutionary regime where SRE mean fluorescence must increase with each step 
 
